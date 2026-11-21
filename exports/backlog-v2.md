@@ -24,7 +24,7 @@ Sprint 1 — Livrer les corrections visibles, couvertes par des tests
 | ---: | --- | --- | ---: | --- | --- |
 | 9 | Rédiger la charte des messages et la maquette | Jorge | 1 | Done |  |
 | 10 | Uniformiser le format d'erreur de l'API (code, message) | Lead dev | 2 | In Progress |  |
-| 11 | Intercepter les erreurs HTTP côté Angular | Dimitry | 1 | Todo |  |
+| 11 | Intercepter les erreurs HTTP côté Angular | Dimitry | 1 | Done |  |
 | 12 | Créer le composant d'affichage des messages | Dimitry | 1 | Todo |  |
 | 57 | Écrire les tests JUnit du format d'erreur de l'API | Rachida | 1 | Todo | v2 |
 | 58 | Écrire les tests des messages d'erreur côté Angular (Vitest) | Dimitry | 1 | Todo | v2 |
@@ -121,8 +121,8 @@ Sprint 1 — Livrer les corrections visibles, couvertes par des tests
 
 | # | Tâche | Responsable | SP | Statut | |
 | ---: | --- | --- | ---: | --- | --- |
-| 54 | Suivre une formation courte aux tests front (Vitest, Playwright) et l'appliquer en binôme | Dimitry | 1 | Todo | v2 |
-| 55 | Suivre une formation courte aux tests back (JUnit 5, Spring Boot Test) et l'appliquer en binôme | Rachida | 1 | Todo | v2 |
+| 54 | Suivre une formation courte aux tests front (Vitest, Playwright) et l'appliquer en binôme | Dimitry | 1 | In Progress | v2 |
+| 55 | Suivre une formation courte aux tests back (JUnit 5, Spring Boot Test) et l'appliquer en binôme | Rachida | 1 | In Progress | v2 |
 
 ## Hors périmètre pour l'instant (sans sprint)
 
