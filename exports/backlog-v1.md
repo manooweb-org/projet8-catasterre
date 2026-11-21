@@ -1,6 +1,6 @@
 # CATASTERRE — Product Backlog v1
 
-> Export du 19/11/2026, lu dans le projet GitHub : <https://github.com/orgs/manooweb-org/projects/2>.
+> Export du 21/11/2026, lu dans le projet GitHub : <https://github.com/orgs/manooweb-org/projects/2>.
 > SP = story points (effort relatif, tâche de référence à 1 SP). Capacité de départ : 15 SP par sprint.
 
 ## #1 Epic 1 — Expérience utilisateur
@@ -12,7 +12,7 @@ Sprint 1 — Livrer les corrections dans une première version conteneurisée
 | # | Tâche | Responsable | SP | Statut |
 | ---: | --- | --- | ---: | --- |
 | 5 | Auditer visuellement les pages | Jorge | 1 | Todo |
-| 6 | Corriger le chargement des polices et leurs polices de secours | Dimitry | 1 | Todo |
+| 6 | Diagnostiquer et corriger l'affichage des polices | Dimitry | 1 | Todo |
 | 7 | Harmoniser les feuilles de style des thèmes clair et sombre | Dimitry | 1 | Todo |
 
 ### #8 US 2 — Messages d'erreur · Haute · 5 SP
