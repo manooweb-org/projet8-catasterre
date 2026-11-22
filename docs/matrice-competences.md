@@ -6,7 +6,7 @@ Outil d'évaluation continue des compétences du projet d'évolution de CATASTER
 
 **Niveaux** : 0 aucun · 1 notions · 2 autonome · 3 expert, capable de former.
 
-## Situation au 04/12/2026 (sprint 1)
+## Évaluation initiale au 09/11/2026 (début du sprint 1)
 
 | Compétence du projet | Dimitry | Rachida | Jorge | Lead dev | Cible fin sprint 3 | Besoin |
 |---|:-:|:-:|:-:|:-:|---|---|
@@ -22,4 +22,4 @@ Outil d'évaluation continue des compétences du projet d'évolution de CATASTER
 
 | Date | Changement | Preuve | Action suivante |
 |---|---|---|---|
-| 04/12/2026 | Première évaluation | — | Formations tests front et back (US 13) |
+| 09/11/2026 | Première évaluation | — | Formations tests front et back (US 13) |
