@@ -4,10 +4,10 @@ CATASTERRE est une application web de visualisation des risques naturels par ima
 
 ## Backlog
 
-Le Product Backlog et le Sprint Backlog sont tenus dans le projet GitHub public **[CATASTERRE — Backlog](https://github.com/orgs/manooweb-org/projects/2)**.
+Le Product Backlog et le Sprint Backlog sont tenus dans le projet GitHub public **[CATASTERRE — Backlog](https://github.com/orgs/manooweb-org/projects/2?pane=info)**.
 
 - **Epics** : issues parentes ; les user stories et tâches techniques en sont les sous-issues.
-- **Champs** : Priorité (Haute, Moyenne, Basse, Luxueuse), Story points, Responsable, Status.
+- **Champs** : Priorité (Haute, Moyenne, Basse, Luxueuse), Story points, Responsable, Sprint, Status.
 
 ## Exports
 
